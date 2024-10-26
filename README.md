@@ -1,5 +1,7 @@
 Hey there! I'm Dishant Kaushik 👋
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Welcome my GitHub Profile.
 
 Passionate about Science and Technology || Coding Enthusiast.

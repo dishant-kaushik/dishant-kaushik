@@ -1,27 +1,26 @@
-Hey there! I'm Dishant Kaushik 👋
+# Hi there, I'm Dishant Kaushik! 👋
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 About Me
+I'm passionate about **science and technology**, with expertise in:
+- **Programming:** Python, Java, C++, SQL
+- **Networking:** Computer Networks, Cloud Computing
+- **Web Development:** HTML, CSS, JavaScript
+- **Machine Learning & IoT:** Working on AI & embedded systems
 
-Welcome my GitHub Profile.
+## 🔥 Ongoing Projects
+- **PawVedya:** A veterinary website with user authentication
+- **Online Banking System:** A Python-based secure banking management system
+- **School Management System:** A Python project for student & employee data management
+- **Cancer_Analysis:** A Machine Learning Project that predicts weather the cancer is deadly or recoverable
 
-Passionate about Science and Technology || Coding Enthusiast.
+## 🎯 Recent Achievements
+- **100 Days of Coding Badge** on CodeChef 🏆
+- Completed **AWS Cloud Computing Fundamentals**
+- Participated in **IoT & Embedded Systems Workshop**
 
-🔭 Exploring and innovating in the fields of science and technology.
+## 📫 Connect with Me
+- **GitHub:** [github.com/DishantKaushik](https://github.com/DishantKaushik)
+- **LinkedIn:** [linkedin.com/in/dishant-kaushik](#)
 
-
-💻 Skilled in a range of technologies, including:
-
-Languages: Python, Java, C++, SQL
-
-Networking: Computer networking and related tools
-
-
-
-🌱 Always learning and eager to solve complex problems through tech.
-
-🚀 Focused on building efficient, scalable solutions for real-world challenges.
-
-
-Feel free to check out my repositories and connect! 😊
-
+Let's innovate together! 🚀
 
